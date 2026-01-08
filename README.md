@@ -1,4 +1,4 @@
-# SAS_project — Medical Multi-Agent System for Diagnosis → Procedures → Billing
+# Medical Multi-Agent System for Diagnosis → Procedures → Billing
 
 This repository corresponds to our paper on a modular, agentic pipeline that translates patient-presenting symptoms into (1) ranked differential diagnoses, (2) recommended procedures with standardized medical codes, and (3) patient-facing, line-item cost estimates.
 
