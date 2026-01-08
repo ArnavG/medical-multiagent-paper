@@ -71,7 +71,7 @@ While the full implementation is not included, the system is organized around th
 
 - `diagnosis_agent/` — symptom → differential diagnosis + ICD-10-CM alignment  
 - `procedure_agent/` — diagnosis/context → procedure intents + code mapping (RAG)  
-- `billing_agent/`` — codes → fee schedule lookup + patient responsibility logic  
+- `billing_agent/` — codes → fee schedule lookup + patient responsibility logic  
 - `pipeline.py` — orchestrates the agents and produces structured JSON outputs
 
 ---
